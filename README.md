@@ -1,2 +1,2 @@
 # debmtx
-Multi-Tool Live OS based on Debian
+Debian Multi-Tool with XFCE
